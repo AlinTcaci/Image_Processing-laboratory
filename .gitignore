@@ -1,0 +1,11 @@
+# IDE stuff
+.idea/
+.vscode/
+
+# CMake stuff
+build/
+cmake-build-*/
+
+# MacOS stuff
+.DS_Store
+**/.DS_Store
