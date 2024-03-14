@@ -28,6 +28,9 @@ class Lab3: public Lab {
         "the Hue channel from the HSV color-space representation of the image."},
   };
 
+  static inline float TH = 0.0003;
+  static inline int WH = 5;
+
   static void testHistogramGrayscale();
 
   static void testComputePDF();
