@@ -31,8 +31,8 @@ namespace utcn::ip {
         static void GeometricalFeatures();
 
 
-    public:
-        void runLab() override;
+        public:
+            void runLab() override;
     };
 }
 

@@ -22,6 +22,8 @@ add_executable(${PROJECT_NAME}
         include/labs/lab3.hh
         include/labs/lab4.hh
         src/labs/lab4.cpp
+        include/labs/lab5.hh
+        src/labs/lab5.cpp
 )
 
 target_include_directories(${PROJECT_NAME} PRIVATE ${CMAKE_CURRENT_LIST_DIR}/include/labs ${CMAKE_CURRENT_LIST_DIR}/include/util)
