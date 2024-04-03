@@ -3,12 +3,14 @@
 #include "lab3.hh"
 #include "lab4.hh"
 #include "lab5.hh"
+#include "lab6.hh"
 
 // using Lab = utcn::ip::Lab1;
 // using Lab = utcn::ip::Lab2;
 // using Lab = utcn::ip::Lab3;
 // using Lab = utcn::ip::Lab4;
- using Lab = utcn::ip::Lab5;
+// using Lab = utcn::ip::Lab5;
+ using Lab = utcn::ip::Lab6;
 
 int main() {
   Lab currentLab;
